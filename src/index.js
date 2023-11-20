@@ -6,6 +6,6 @@ const app = express();
 
 app.use('/api', apiRoutes);
 
-app.listen(ServerConfig.PORT, () => {
-    console.log(`Successfully started the server on PORT : ${ServerConfig.PORT}`);
+app.listen(4000, () => {
+    console.log(`Successfully started the server on PORT : 4000`);
 })
