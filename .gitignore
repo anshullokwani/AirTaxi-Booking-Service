@@ -1,3 +1,8 @@
 node_modules/
 .env
 combined.log
+.vscode
+src/config/dist
+src/services/dist
+src/controllers/dist
+src/dist
